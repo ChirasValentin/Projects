@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\Github\Proiecte_An_2_TP\Calculator Polinoame\.metadata\.plugins\org.eclipse.jdt.core
+1285798997.index
