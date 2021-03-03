@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"businessLayer"},{"l":"connection"},{"l":"dataAccessLayer"},{"l":"model"},{"l":"presentation"},{"l":"start"}]
