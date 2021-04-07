@@ -1,0 +1,6 @@
+------BON------
+Date: 15.10.2020
+Table: 1
+Order: [Curcan 32 USD, Tofu 12 USD, Cartofi prajiti 12 USD]
+Total: 56 USD
+Have a nice day!!

@@ -1,0 +1,6 @@
+------BON------
+Date: 15.10.2020
+Table: 2
+Order: [Curcan 32 USD, Pui Crispy 15 USD, Ceafa de porc 20 USD, Friptura de porc 20 USD]
+Total: 87 USD
+Have a nice day!!
